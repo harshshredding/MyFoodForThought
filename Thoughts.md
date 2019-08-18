@@ -1,2 +1,3 @@
 - Why Facebook(and instagram) defecates and feeds on content that our world doesn't `need`.
 - The Control Problem.
+- Taking an objective as gospel truth is important to optimize.
