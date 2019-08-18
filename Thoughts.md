@@ -1,1 +1,2 @@
-- Why facebook(and instagram) defecates and feeds on content that our world doesn't `need`.
+- Why Facebook(and instagram) defecates and feeds on content that our world doesn't `need`.
+- The Control Problem.
